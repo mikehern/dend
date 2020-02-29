@@ -1,0 +1,7 @@
+data
+__pycache__
+*.env
+*.ipynb
+todos.md
+.DS_Store
+.vscode
